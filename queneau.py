@@ -11,7 +11,7 @@ Ou 10 poemas elevados a 14 versos.
 Ou 10¹⁴ = 100.000.000.000.000.
 100 bilhões de poemas.
 """)
-st.write("""Traduzido do francês pelo Google Tradutor""")
+st.write("""Traduzido do francês pelo Google Tradutor.""")
 
 from PIL import Image
 image = Image.open('queneau.jpg')
