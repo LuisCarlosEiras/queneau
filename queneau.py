@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Cem bilhões de poemas')
+st.title('Cem trilhões de poemas')
 
 st.write("""
 *Os Cem trilhões de poemas*, de Raymond Queneau, 1961, é um livro com dez páginas. 
@@ -15,7 +15,7 @@ st.write("""Traduzido do francês pelo Google Tradutor.""")
 
 from PIL import Image
 image = Image.open('queneau.jpg')
-st.image(image, caption='Um livro gera 100 bilhões de poemas')
+st.image(image, caption='São 100 trilhões de poemas. Clique abaixo para gerar o 2º.')
 
 import random
 versos = (
