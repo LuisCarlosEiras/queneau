@@ -3,13 +3,13 @@ import streamlit as st
 st.title('Cem bilhões de poemas')
 
 st.write("""
-*Os Cem mil bilhões de poemas*, de Raymond Queneau, 1961, é um livro com dez páginas. 
+*Os Cem trilhões de poemas*, de Raymond Queneau, 1961, é um livro com dez páginas. 
 Cada página um poema. Cada poema com 14 versos. 
 E cada verso está escrito numa tira, que forma a página. 
 Assim o leitor poderá fazer quaisquer combinações entre os poemas e os versos. 
 Ou 10 poemas elevados a 14 versos.
 Ou 10¹⁴ = 100.000.000.000.000.
-100 bilhões de poemas.
+100 trilhões de poemas.
 """)
 st.write("""Traduzido do francês pelo Google Tradutor.""")
 
