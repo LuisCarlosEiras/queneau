@@ -15,7 +15,7 @@ st.write("""Traduzido do francês pelo Google Tradutor.""")
 
 from PIL import Image
 image = Image.open('queneau.jpg')
-st.image(image, caption='São 100 trilhões de poemas. Clique abaixo para gerar o 2º.')
+st.image(image, caption='São 100 trilhões de poemas. Clique abaixo para gerar o próximo.')
 
 import random
 versos = (
